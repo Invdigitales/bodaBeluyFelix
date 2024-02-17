@@ -110,7 +110,7 @@ margin-left: 68%;
   color: #ffffff;
   background-color:#D97F37;
   border-radius: 7px;
-  box-shadow: 1px 1px 30px -5px rgb(214, 236, 180);
+  box-shadow: 1px 1px 30px -5px rgb(175, 199, 138);
   cursor: pointer;
   margin-left: 34%;
   background-size: 120%;
@@ -120,6 +120,31 @@ margin-left: 68%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: bold;
 }
+.btn_btn-primary{
+  padding: 1px 9px;
+  font-size: 18px;
+  border: none;
+  color: #ffffff;
+  background-color:#D97F37;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+  cursor: pointer;
+  margin-left: 34%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-image: url(./imagenes/grises.gif);
+  background-size: 50%;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+.mapa{
+  width: 80%;
+  height: 80%;
+  margin-left: 23%;
+margin-top: 5%;
+
+}
+
   .linea{
     color:#6B928F;
     width: 70%;
