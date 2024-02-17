@@ -35,13 +35,13 @@
       
   }
   .cr-desc {
-      color: #8e8e8e;
+      color: #a5a5a5;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: 14px;
       
   }
   .cr-block {
-      background: #ffffffe4;
+      background: #ffffff;
       border-radius: 180px;
       padding: 0.2em 0.6em;
       background-size: 40%;
@@ -88,6 +88,9 @@ margin-left: 68%;
        margin-top: 10%;
      
   }
+  .main{
+    background-color: #A5B38B;
+  }
   .parrafo1{
     text-align: center;
     font-family: "Alegreya", serif; 
@@ -132,7 +135,6 @@ margin-left: 68%;
   margin-left: 34%;
   background-size: 120%;
   margin-top: 4%;
-  background-image: url(./imagenes/grises.gif);
   background-size: 50%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: bold;
@@ -152,6 +154,70 @@ margin-top: 5%;
    margin-top: 10%;
    
   }
+
+
+  .linea2{
+    color:#6B928F;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: -18%;
+   
+  }
+
+  .linea3{
+    color:#6B928F;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: 8%;
+   
+  }
+
+  .parrafo3{
+    text-align: center;
+    font-family: "Alegreya", serif; 
+       font-size: 17px;
+       color: #4d4c4c;
+       margin-top: 5%;
+  }
+
+  .gap1{
+    padding: 1px 8px;
+    font-size: 18px;
+    border: none;
+    color: #ffffff;
+    background-color:#D97F37;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+    cursor: pointer;
+   
+    background-size: 120%;
+    margin-top: 4%;
+    background-size: 50%;
+    font-family: 'Julius Sans One', sans-serif;
+  
+  }
+
+  .primary{
+    padding: 1px 8px;
+    font-size: 18px;
+    border: none;
+    color: #ffffff;
+    background-color:#D97F37;
+    border-radius: 7px;
+    box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+    cursor: pointer;
+    margin-left: 39%;
+    background-size: 120%;
+    margin-top: 4%;
+    background-size: 50%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+  }
+
+
+
+
+
   .box__copyright {
     margin-top: 6%;
   
@@ -185,7 +251,7 @@ margin-top: 5%;
 
 .ld-ripple div {
   position: absolute;
-  border: 4px solid #e2e2e2;
+  border: 4px solid #f4f4f4;
   opacity: 1;
 
   border-radius: 50%;
