@@ -102,10 +102,16 @@ margin-left: 68%;
     text-align: center;
     font-family: "Alegreya", serif; 
        font-size: 21px;
-       color: #4d4c4c;
+       color: #D97F37;
        margin-top: 5%;
   }
-
+  .parrafo12{
+    text-align: center;
+    font-family: "Alegreya", serif; 
+       font-size: 21px;
+       color: #A5B38B;
+       margin-top: 5%;
+  }
 .click1 {
   padding: 1px 9px;
   font-size: 18px;
@@ -139,6 +145,45 @@ margin-left: 68%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: bold;
 }
+
+
+btn_btn-primary2{
+  padding: 1px 9px;
+  font-size: 18px;
+  border: none;
+  color: #717171;
+  background-color:#f6dbc6;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+  cursor: pointer;
+  margin-left: 34%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-size: 50%;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+
+.btn-primary7 {
+  text-decoration: none;
+  padding: 1px 9px;
+  font-size: 18px;
+  border: none;
+  color: #ffffff;
+  background-color:#D97F37;
+  border-radius: 7px;
+  box-shadow: 1px 1px 30px -5px rgb(178, 202, 142);
+  cursor: pointer;
+  margin-left: 39%;
+  background-size: 120%;
+  margin-top: 4%;
+  background-size: 50%;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+}
+
+
 .mapa{
   width: 80%;
   height: 80%;
@@ -160,7 +205,7 @@ margin-top: 5%;
     color:#6B928F;
     width: 70%;
    margin-left: 15%;
-   margin-top: -18%;
+   margin-top: -10%;
    
   }
 
@@ -204,7 +249,10 @@ margin-top: 5%;
    
   }
 
-
+  .final{
+    background-color: #A5B38B;
+    padding: 1px;
+  }
 
 
   .parrafo3{
@@ -268,15 +316,15 @@ margin-top: 5%;
     text-align: center;
     font-family: "Alegreya", serif; 
        font-size: 19px;
-       color: #4d4c4c;
-       margin-top: 20%;
+       color: #ffffff;
+       margin-top: 14%;
   }
 .nombres{
-  color: #D97F37;;
+  color:#D97F37;
 }
 
 .corazon{
-  width: 10%;
+  width: 5%;
   margin-left: 45%;
 margin-top: -5%;
 }
@@ -306,7 +354,7 @@ margin-top: -5%;
    margin-top: -5%;
   }
      
- }
+ 
  .ld-ripple {
   position: relative;
   width: 50px;
